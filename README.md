@@ -1,6 +1,6 @@
 # Tenzies-ReactJS 🎲
 
-Create a **`Tenzies Game`** using `ReactJS`
+A **`Tenzies Game`** using `ReactJS`
 
 ## [Live Preview](https://mediumblock.github.io/tenzies/)
 
